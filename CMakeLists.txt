@@ -8,4 +8,5 @@ target_sources(app PRIVATE
     src/tatico_events.c 
     src/tatico_settings.c 
     src/tatico_shell.c
+    src/tatico_button.c
 )
