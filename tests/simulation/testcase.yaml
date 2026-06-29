@@ -1,0 +1,5 @@
+# Arquivo que o Twister irá ler para rodar os testes
+tests:
+  tatico.button.logic:
+    tags: ztest
+    harness: ztest
